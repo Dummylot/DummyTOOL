@@ -1,0 +1,7 @@
+requests
+discord.py
+pygame
+packaging
+requests
+colorama
+inputimeout
